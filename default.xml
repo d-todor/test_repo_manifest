@@ -3,5 +3,5 @@
 <remote name="mdt_gitlab" fetch="https://code.medtronic.com/medtronic_mobile_lab"/>
 <default remote="mdt_gitlab" revision="development"/>
 <project path="mobile_app" name="BLECONNECT-ANDROID/mobile_app"/>
-<project path="mobile_app/mobile/securerepositories" name="app_integrity/android-library" revision="master"/>
+<project path="mobile_app/mobile/securerepositories" name="app_integrity/android-library" revision="feature/test"/>
 </manifest>
